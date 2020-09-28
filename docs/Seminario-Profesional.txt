@@ -2,7 +2,7 @@ UNIVERSIDAD POLITECNICA SALESIANA
 
 Seminario Profesional
 
-1.- GITHUB
-
-2.- Fundamentos de Javascript  21/09/2020
+1.- GITHUB  21/09/2020
+2.- GITHUB  22/09/2020
+3.- Fundamentos de Javascript  23/09/2020
 
