@@ -1,4 +1,3 @@
-const model = require('./model')
 
 function addDocente( objeto ) {
     const docente = new model( objeto )
