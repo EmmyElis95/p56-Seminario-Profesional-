@@ -18,7 +18,7 @@ function getDocentes( filtroDocente ) {
     } )
 }
 
-function updateDocente(idDocente, nombre, apellido, correo_electronico) {
+async function updateDocente(idDocente, nombre, apellido, correo_electronico) {
     return new Promise( async (resolve, reject) => {
         let docente = {
             nombre: nombre,
